@@ -1,0 +1,35 @@
+# Flutter / Dart build artifacts
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+ephemeral/
+pubspec.lock
+
+# Android build outputs & local properties
+android/.gradle/
+android/local.properties
+android/app/build/
+*.keystore
+*.jks
+
+# iOS / macOS build outputs & pods
+ios/
+macos/
+
+# Linux, web and windows files
+linux/
+web/
+windows/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# OS metadata
+.DS_Store
+Thumbs.db
